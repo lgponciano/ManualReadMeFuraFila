@@ -1,4 +1,4 @@
-## ![logo](Imagens/Logo.png) Projeto Fura-Fila
+## ![logo](Imagens/logo.png) Projeto Fura-Fila
 
 ## Descrição
 
