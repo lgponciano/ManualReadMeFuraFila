@@ -8,6 +8,7 @@
 
 * [Pré-Requisitos](#pré-requisitos)
 * [Tecnologias](#tecnologias)
+* [Como Utilizar](#como-utilizar)
 * [Autores](#autores)
 * [Licença](#licença)
 
@@ -33,6 +34,10 @@ $ git clone <https://github.com/Victor-TSGM/FuraFila_Cadastro.git>
 Acesse nosso manual para utilização do aplicativo.
 
 [Manual Fura-Fila](manual.md)
+
+Confira tambem nossa Landing Page
+
+[Landing Page](https://efurafila.000webhostapp.com/)
 
 ### Tecnologias
 
