@@ -32,7 +32,7 @@ $ git clone <https://github.com/Victor-TSGM/FuraFila_Cadastro.git>
 
 Acesse nosso manual para utilização do aplicativo.
 
-[Manual Fura-Fila](manual.md)
+[Manual Fura-Fila](Manual.md)
 
 ### Tecnologias
 
